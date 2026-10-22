@@ -25,10 +25,10 @@
     "got": "^11.8.2",
     "libsignal": "github:pokearaujo/libsignal-node",
     "mime-types": "^2.1.32",
-    "music-metadata": "^7.11.4",
-    "protobufjs": "^6.11.2",
+    "music-metadata": "^12.2.3",
+    "protobufjs": "^8.8.1",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.29.1",
+    "sharp": "^0.35.5",
     "url": "^0.11.0",
     "ws": "^7.5.3"
   }
